@@ -1,6 +1,6 @@
 # copito-downloader V 1.0
 
-This code allows you to download multiple videos from wistia based videos.
+This code allows you to download multiple wistia based videos.
 Get multiple links from text/csv file and download all the videos (format 1080p) 
 Git clone the repo. 
 
